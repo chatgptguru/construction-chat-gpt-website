@@ -24,7 +24,7 @@ background-size: 100% !important;
 
 #section-features{ background:url(../images/background/bg-1.jpg) top fixed;}
 #section-welcome{background:url(../images/background/bg-2.jpg) top fixed;}
-#section-hero-2{ background:url(../images/background/bg-3.jpg) top fixed;}
+#section-hero-2{ background:url(../images/background/bg-3.jpg) top fixed; height: 100vh !important; background-size: cover !important;}
 #section-hero-6{ background:url(../images/background/bg-4.jpg) top fixed;}
 /* misc */
 #section-portfolio{width:101%; overflow:hidden;}
