@@ -106,7 +106,7 @@ f.setRatio(1)}return t._gsClassPT=a,a.e="="!==e.charAt(1)?e:p.replace(RegExp("\\
  *
  * @license Copyright (c) 2008-2015, GreenSock. All rights reserved.
  * SplitText is a Club GreenSock membership benefit; You must have a valid membership to use
- * this code without violating the terms of use. Visit http://www.greensock.com/club/ to sign up or get more details.
+ * this code without violating the Terms Of Use. Visit http://www.greensock.com/club/ to sign up or get more details.
  * This work is subject to the software agreement that was issued with your membership.
  * 
  * @author: Jack Doyle, jack@greensock.com
