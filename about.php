@@ -106,10 +106,10 @@ include('./auth/auth_session.php');
                                         <div class="text">
                                             <ul class="page_content_ul">
                                                 <li id="about_us_context_1">Welcome to ConstructGPT where innovation and expertise come together to meet the needs of construction professionals.</li>
-                                                <li id="about_us_context_2">Our team is composed of industry veterans with over 20 years of experience working with builders, suppliers, contractors, engineers, and architects.</li>
+                                                <li id="about_us_context_2">Our team is composed of industry veterans with over 40 years of experience working with builders, suppliers, contractors, engineers, and architects.</li>
                                                 <li id="about_us_context_3">With a deep understanding of the unique challenges facing the construction industry, we have a history of using cutting-edge technology to solve real-world problems.</li>
                                                 <li id="about_us_context_4">At ConstructGPT we leverage the power of AI and natural language processing to provide our clients with the most accurate and up-to-date information in the industry.</li>
-                                                <li id="about_us_context_5"> Our chatbot, powered by ChatGPT, offers instant access to an extensive knowledge base, making it easy for construction professionals to find the answers they need, when they need them.
+                                                <li id="about_us_context_5"> Our chatbot offers instant access to an extensive knowledge base, making it easy for construction professionals to find the answers they need, when they need them.
                                                 </li>
                                                 <li id="about_us_context_6">Whether you're a contractor looking for the trade specific information , an architect in search of inspiration, or a supplier trying to stay ahead of the competition, our website is the go-to resource for construction professionals.</li>
                                                 <li id="about_us_context_7">We are dedicated to providing our users with the tools and information they need to succeed in this ever-changing industry.</li>
@@ -145,9 +145,8 @@ include('./auth/auth_session.php');
                         <div class="widget widget-address">
                             <address>
                                 <span>Henderson, United States</span>
-                                <span><strong>Phone:</strong>+123 456 789 0</span>
-                                <span><strong>Email:</strong><a href="mailto:info@constructionGPT.com">info@constructionGPT.com</a></span>
-                                <span><strong>Web:</strong><a href="https://www.constructionGPT.com">https://constructionGPT.com</a></span>
+                                <span><strong>Email:</strong><a href="mailto:contact@constructgpt.com">contact@constructgpt.com</a></span>
+                                <span><strong>Web:</strong><a href="https://www.constructionGPT.com">https://constructgpt.com</a></span>
                             </address>
                         </div>
                     </div>

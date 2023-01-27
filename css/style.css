@@ -6377,7 +6377,7 @@ a.btn btn-custom:hover {
 
 @media only screen and (max-width: 1450px){
   header div#logo img {
-    max-width: 320px;
+    max-width: 350px;
     height: auto !important; 
     left: -5%;
     position: absolute;
@@ -6387,7 +6387,7 @@ a.btn btn-custom:hover {
 
 @media only screen and (max-width: 1100px){
   header div#logo img {
-    max-width: 220px;
+    max-width: 250px;
     height: auto !important; 
     top: 20px;
     left: 0px;
@@ -6400,7 +6400,7 @@ a.btn btn-custom:hover {
     max-width: 220px;
     height: auto !important; 
     left: 0px;
-    top: -15px;
+    top: -17px;
     position: absolute;
   }
 }
@@ -6418,7 +6418,7 @@ a.btn btn-custom:hover {
     margin-bottom: 30px;
   }
   header div#logo img {
-    max-width: 200px;
+    max-width: 220px;
     height: auto !important; 
     left: 0px;
     top: -15px;
@@ -6445,10 +6445,10 @@ a.btn btn-custom:hover {
   }
 
   header div#logo img {
-    max-width: 200px;
+    max-width: 235px;
     height: auto !important; 
     left: 0;
-    top: -15px;
+    top: -20px;
     position: absolute;
   }
 }
@@ -6465,7 +6465,9 @@ a.btn btn-custom:hover {
 .chatgptmessage .detail {
   font-size: 22px;
   color: white;
+  line-height: 25px;
   font-weight: 600;
+  white-space: pre-line !important;
 }
 
 .chatgptform {
@@ -6495,9 +6497,6 @@ a.btn btn-custom:hover {
   padding-left: 10px;
 }
 
-#first_question {
-  margin-top: 100px;
-}
 ::-webkit-scrollbar {
   width: 0px;
 }
@@ -6559,3 +6558,11 @@ h1.login-title {
   color: white;
 }
 
+#chat_container {
+  overflow-y: scroll;
+  margin-top: 100px;
+}
+
+#chatgpt_textarea {
+  resize: none;
+}

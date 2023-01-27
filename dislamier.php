@@ -145,9 +145,8 @@ include('./auth/auth_session.php');
                         <div class="widget widget-address">
                             <address>
                                 <span>Henderson, United States</span>
-                                <span><strong>Phone:</strong>+123 456 789 0</span>
-                                <span><strong>Email:</strong><a href="mailto:info@constructionGPT.com">info@constructionGPT.com</a></span>
-                                <span><strong>Web:</strong><a href="https://www.constructionGPT.com">https://constructionGPT.com</a></span>
+                                <span><strong>Email:</strong><a href="mailto:contact@constructgpt.com">contact@constructgpt.com</a></span>
+                                <span><strong>Web:</strong><a href="https://www.constructionGPT.com">https://constructgpt.com</a></span>
                             </address>
                         </div>
                     </div>
